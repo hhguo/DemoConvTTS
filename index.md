@@ -1,7 +1,7 @@
 ---
 
-title: Hello World!
-category: Meta
+title: Conversational End-to-End TTS for Voice Agents
+category: Demo
 
 description: Anonymous Authors <br> Anonymous Affiliations
 
