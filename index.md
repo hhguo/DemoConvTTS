@@ -34,6 +34,9 @@ table th:nth-of-type(3) {
 | :----: | :----: | :----: |
 | <font color="#FF0000">您好，有什么可以帮您？</font> | <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio> |<audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio> |
 
+----
+
+Dialog 1......
 
 <table>
     <thead><tr><th>Transcript</th><th>Audio</th></tr></thead>
@@ -93,6 +96,10 @@ table th:nth-of-type(3) {
     </tr>
     </tbody>
 </table>
+
+----
+
+Dialog 1......
 
 ### Dialog 2
 
