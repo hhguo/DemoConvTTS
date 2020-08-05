@@ -1,7 +1,14 @@
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:
   - index.md
+  
+github:
+  is_project_page: false
  
 title: [Conversational End-to-End TTS for Voice Agents]
-theme: jekyll-theme-cayman
+description: Anonymous Authors
