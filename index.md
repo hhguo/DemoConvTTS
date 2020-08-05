@@ -14,9 +14,9 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
 	<li>The red text parts are agent (female voice), the others are user (male voice).</li>
 </ul>
 
-<h2>Part 1: M1(left) vs M2(right)</h2>
+## Part 1: M1(left) vs M2(right)
 
-<h2>Dialog 1</h2>
+### Dialog 1
 
 | Transcripts | M1 | M2 |
 | :----: | :----: | :----: |
@@ -81,7 +81,7 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
 </table>
 ----
 
-<h2>Dialog 2</h2>
+### Dialog 2
 
 <table border="1px" style="table-layout:fixed; word-wrap:break-word;">
     <tr><th>Transcript</th><th>Audio</th></tr>
@@ -133,7 +133,7 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
 </table>
 ----
 
-<h2>Listen the complete conversation: M1(left) vs M2(right) </h2>
+### Listen the complete conversation: M1(left) vs M2(right)
 
 <table border="1px" style="table-layout:fixed; word-wrap:break-word;">
     <tr>
@@ -143,9 +143,9 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
     </tr>
 </table>
 
-<h2>Part 2: M2(left) vs M3(right) </h2>
+## Part 2: M2(left) vs M3(right)
 
-<h2>Dialog 1</h2>
+### Dialog 1
 
 <table border="1px" style="table-layout:fixed; word-wrap:break-word;">
     <tr><th>Transcript</th><th>Audio</th></tr>
@@ -204,7 +204,7 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
     </tr>
 </table>
 
-<h2>Dialog 2</h2>
+### Dialog 2
 
 <table border="1px" style="table-layout:fixed; word-wrap:break-word;">
     <tr><th>Transcript</th><th>Audio</th></tr>
@@ -255,7 +255,7 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
     </tr>
 </table>
 
-<h2>Listen the complete conversation: M2(left) vs M3(right) </h2>
+### Listen the complete conversation: M2(left) vs M3(right)
 
 <table border="1px" style="table-layout:fixed; word-wrap:break-word;">
     <tr>
@@ -265,7 +265,7 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
     </tr>
 </table>
 
-<h2>Part 3: Spontaneous behaviors </h2>
+## Part 3: Spontaneous behaviors
 
 <table border="1px" style="table-layout:fixed; word-wrap:break-word;">
     <tr><th>Transcript</th><th>Audio</th></tr>
