@@ -34,9 +34,20 @@ table th:nth-of-type(3) {
 | :----: | :----: | :----: |
 | <font color="#FF0000">您好，有什么可以帮您？</font> | <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio> |<audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio> |
 
-----
 
-Dialog 1......
+<table>
+    <thead><tr><th>Transcript</th><th>Audio</th></tr></thead>
+    <tbody>
+    <tr>
+        <td width="800px" style="word-wrap:break-word;">
+            <font color="#FF0000">您好，有什么可以帮您？</font>
+        </td>
+        <td>
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio><br><font color="#4169E1">
+        </td>
+    </tr>
+</table>
+
 
 <table>
     <thead><tr><th>Transcript</th><th>Audio</th></tr></thead>
@@ -97,10 +108,6 @@ Dialog 1......
     </tbody>
 </table>
 
-----
-
-Dialog 1......
-
 ### Dialog 2
 
 <table border="1px" style="table-layout:fixed; word-wrap:break-word;">
@@ -151,7 +158,6 @@ Dialog 1......
         </td>
     </tr>
 </table>
-----
 
 ### Listen the complete conversation: M1(left) vs M2(right)
 
