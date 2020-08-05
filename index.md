@@ -130,8 +130,11 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
 
 <table align="center">
     <tr>
-        <td style="word-wrap:break-word;">
-            <audio controls style="width: 300px;"><source src="sample/phoneme/00002.wav"></audio><audio controls style="width: 300px;"><source src="sample/bert/00002.wav"></audio>
+        <td width="50%" style="word-wrap:break-word;">
+            <audio controls style="width: 300px;"><source src="sample/phoneme/00002.wav"></audio>
+        </td>
+        <td width="50%" style="word-wrap:break-word;">
+            <audio controls style="width: 300px;"><source src="sample/bert/00002.wav"></audio>
         </td>
     </tr>
 </table>
@@ -252,8 +255,11 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
 
 <table align="center">
     <tr>
-        <td style="word-wrap:break-word;">
-            <audio controls style="width: 300px;"><source src="sample/bert/00001.wav"></audio><audio controls style="width: 300px;"><source src="sample/chat/00001.wav"></audio>
+        <td width="50%" style="word-wrap:break-word;">
+            <audio controls style="width: 300px;"><source src="sample/bert/00001.wav"></audio>
+        </td>
+        <td width="50%" style="word-wrap:break-word;">
+            <audio controls style="width: 300px;"><source src="sample/chat/00001.wav"></audio>
         </td>
     </tr>
 </table>
