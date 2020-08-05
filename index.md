@@ -32,7 +32,7 @@ table th:nth-of-type(3) {
 
 | Transcripts <img width=800px/> | M1 | M2 |
 | :----: | :----: | :----: |
-| <font color="#FF0000">您好，有什么可以帮您？</font> | <audio controls style="width: 150px;" style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio> |<audio controls style="width: 150px;" style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio> |
+| <font color="#FF0000">您好，有什么可以帮您？</font> | <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio> |<audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio> |
 
 
 <table>
