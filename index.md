@@ -1,8 +1,6 @@
 ---
 
 layout: post
-title:  "Conversational End-to-End TTS for Voice Agents"
-date:   2018-05-05
 
 ---
 
