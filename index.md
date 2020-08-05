@@ -34,7 +34,6 @@ table th:nth-of-type(3) {
 | :----: | :----: | :----: |
 | <font color="#FF0000">您好，有什么可以帮您？</font> | <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio> |<audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio> |
 
-
 <table>
     <thead><tr><th>Transcript</th><th>Audio</th></tr></thead>
     <tbody>
@@ -43,21 +42,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">您好，有什么可以帮您？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio><br><font color="#4169E1">
-        </td>
-    </tr>
-</table>
-
-
-<table>
-    <thead><tr><th>Transcript</th><th>Audio</th></tr></thead>
-    <tbody>
-    <tr>
-        <td width="800px" style="word-wrap:break-word;">
-            <font color="#FF0000">您好，有什么可以帮您？</font>
-        </td>
-        <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -66,7 +51,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">可以的。那么，您要去哪里旅行呢？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100002.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100002.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100002.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100002.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -75,7 +60,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">可以啊，嗯，您想去热带气候的地方，还是想去凉爽的地方？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100004.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100004.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100004.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100004.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -84,7 +69,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的，我给您一些小册子，您参考参考。</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100006.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100006.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100006.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100006.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -93,7 +78,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的。另外，您这次旅行的预算多少？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100008.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100008.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100008.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100008.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -102,7 +87,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的。那您先选择目的地，缩小范围之后，我们将很乐意为您预订。</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100010.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100010.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100010.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100010.wav"></audio><br>
         </td>
     </tr>
     </tbody>
@@ -118,7 +103,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的，我们可以立即预订您的行程。那，您要飞往哪个城市？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200002.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200002.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200002.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200002.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -127,7 +112,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好。您希望预定几号的票？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200004.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200004.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200004.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200004.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -136,7 +121,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">稍等。嗯，好。您可以从洛杉矶国际机场或伯班克机场起飞，您选哪个？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200006.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200006.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200006.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200006.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -145,7 +130,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好。您希望在一天中的哪个时间飞行？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200008.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200008.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200008.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200008.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -154,7 +139,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的，已经为您找到了廉价航班。我们已经把电子机票发到您的邮箱，请您查收。</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200010.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200010.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/phoneme/06060000200010.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000200010.wav"></audio><br>
         </td>
     </tr>
 </table>
@@ -180,7 +165,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">您好，有什么可以帮您？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100000.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100000.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -189,7 +174,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">可以的。那么，您要去哪里旅行呢？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000100002.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100002.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000100002.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100002.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -198,7 +183,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">可以啊，嗯，您想去热带气候的地方，还是想去凉爽的地方？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000100004.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100004.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000100004.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100004.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -207,7 +192,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的，我给您一些小册子，您参考参考。</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000100006.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100006.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000100006.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100006.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -216,7 +201,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的。另外，您这次旅行的预算多少？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000100008.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100008.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000100008.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100008.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -225,7 +210,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的。那您先选择目的地，缩小范围之后，我们将很乐意为您预订。</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000100010.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100010.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000100010.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000100010.wav"></audio><br>
         </td>
     </tr>
 </table>
@@ -240,7 +225,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的，我们可以立即预订您的行程。那，您要飞往哪个城市？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000200002.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200002.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000200002.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200002.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -249,7 +234,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好。您希望预定几号的票？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000200004.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200004.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000200004.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200004.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -258,7 +243,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">稍等。嗯，好。您可以从洛杉矶国际机场或伯班克机场起飞，您选哪个？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000200006.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200006.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000200006.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200006.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -267,7 +252,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好。您希望在一天中的哪个时间飞行？</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000200008.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200008.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000200008.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200008.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -276,7 +261,7 @@ table th:nth-of-type(3) {
             <font color="#FF0000">好的，已经为您找到了廉价航班。我们已经把电子机票发到您的邮箱，请您查收。</font>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/bert/06060000200010.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200010.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/bert/06060000200010.wav"></audio><audio controls style="width: 150px;"><source src="sample/chat/06060000200010.wav"></audio><br>
         </td>
     </tr>
 </table>
@@ -300,7 +285,7 @@ table th:nth-of-type(3) {
             嗯嗯，呃刚刚是我接的电话。<br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/spontaneous_behaviors/filler_0.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/spontaneous_behaviors/filler_0.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -308,7 +293,7 @@ table th:nth-of-type(3) {
             呃就是说不用重新申请了，您直接到达银行就可以了明天。<br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/spontaneous_behaviors/filler_1.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/spontaneous_behaviors/filler_1.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -316,7 +301,7 @@ table th:nth-of-type(3) {
             啊可以可以。<br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/spontaneous_behaviors/repeat_0.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/spontaneous_behaviors/repeat_0.wav"></audio><br>
         </td>
     </tr>
     <tr>
@@ -324,7 +309,7 @@ table th:nth-of-type(3) {
             哎对对对。<br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="sample/spontaneous_behaviors/repeat_1.wav"></audio><br><font color="#4169E1">
+            <audio controls style="width: 150px;"><source src="sample/spontaneous_behaviors/repeat_1.wav"></audio><br>
         </td>
     </tr>
 </table>
