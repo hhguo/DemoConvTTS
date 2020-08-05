@@ -2,16 +2,5 @@
 layout: default
 ---
 
-# Audio samples of "Conversational End-to-End TTS for Voice Agent"
-
-<!-- ## Authors
-
-Haohan Guo*
-Shaofei Zhang*
-Frank K. Soong
-Lei He
-Lei Xie
-
-<font size=2>\**Equal contribution.*</font> -->
-
-## Abstract
+# Abstract
+End-to-end neural TTS has achieved excellent performance on reading style speech synthesis. However, it’s still a challenge to build a high-quality conversational TTS due to the limitations of the corpus and modeling capability. This study aims at building a conversational TTS for a voice agent under sequence to sequence modeling framework. We firstly construct a spontaneous conversational speech corpus well designed for the voice agent with a new recording scheme ensuring both recording quality and conversational speaking style. Secondly, we propose a conversation context-aware end-to-end TTS approach which has an auxiliary encoder and a conversational context encoder to reinforce the information about the current utterance and its context in a conversation as well. Experimental results show that the proposed methods produce more natural prosody in accordance with the conversational context, with significant preference gains at both utterance-level and conversation-level. Moreover, we find that the model has the ability to express some spontaneous behaviors, like fillers and repeated words, which makes the conversational speaking style more realistic.
