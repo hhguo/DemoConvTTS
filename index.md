@@ -1,8 +1,5 @@
 ---
-
 layout: post
-
----
 
 
 # Audio samples of "Conversational End-to-End TTS for Voice Agent"
