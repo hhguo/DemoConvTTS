@@ -18,12 +18,12 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
 
 ### Dialog 1
 
-| Transcripts | M1 | M2 |
+| Transcripts <img width=800px/> | M1 | M2 |
 | :----: | :----: | :----: |
 | <font color="#FF0000">您好，有什么可以帮您？</font> | <audio controls><source src="sample/phoneme/06060000100000.wav"></audio> |<audio controls><source src="sample/bert/06060000100000.wav"></audio> |
 
 
-<table border="1px" style="table-layout:fixed; word-wrap:break-word;">
+<table>
     <tr><th>Transcript</th><th>Audio</th></tr>
     <tr>
         <td width="800px" style="word-wrap:break-word;">
