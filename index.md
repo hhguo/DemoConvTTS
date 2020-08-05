@@ -18,6 +18,11 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
 
 <h2>Dialog 1</h2>
 
+| Transcripts | M1 | M2 |
+| :----: | :----: | :----: |
+| <font color="#FF0000">您好，有什么可以帮您？</font> | <audio controls><source src="sample/phoneme/06060000100000.wav"></audio> |<audio controls><source src="sample/bert/06060000100000.wav"></audio> |
+
+
 <table border="1px" style="table-layout:fixed; word-wrap:break-word;">
     <tr><th>Transcript</th><th>Audio</th></tr>
     <tr>
@@ -74,6 +79,7 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
         </td>
     </tr>
 </table>
+----
 
 <h2>Dialog 2</h2>
 
@@ -125,6 +131,7 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
         </td>
     </tr>
 </table>
+----
 
 <h2>Listen the complete conversation: M1(left) vs M2(right) </h2>
 
