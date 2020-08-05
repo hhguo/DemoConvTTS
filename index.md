@@ -30,13 +30,14 @@ table th:nth-of-type(3) {
 }
 </style>
 
-| Transcripts <img width=800px/> | M1 | M2 |
+| Transcripts | M1 | M2 |
 | :----: | :----: | :----: |
 | <font color="#FF0000">您好，有什么可以帮您？</font> | <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100000.wav"></audio> |<audio controls style="width: 150px;"><source src="sample/bert/06060000100000.wav"></audio> |
 
 
 <table>
-    <tr><th>Transcript</th><th>Audio</th></tr>
+    <thead><tr><th>Transcript</th><th>Audio</th></tr></thead>
+    <tbody>
     <tr>
         <td width="800px" style="word-wrap:break-word;">
             <font color="#FF0000">您好，有什么可以帮您？</font>
@@ -90,8 +91,8 @@ table th:nth-of-type(3) {
             <audio controls style="width: 150px;"><source src="sample/phoneme/06060000100010.wav"></audio><audio controls style="width: 150px;"><source src="sample/bert/06060000100010.wav"></audio><br><font color="#4169E1">
         </td>
     </tr>
+    </tbody>
 </table>
-----
 
 ### Dialog 2
 
