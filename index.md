@@ -7,12 +7,12 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
 
 # Audio Samples
 
-<ul>
-	<li>M1: baseline model.<br> </li>
-	<li>M2: M1 plus auxiliary encoder.<br></li>
-	<li>M3: M2 plus conversational context encoder.<br></li>
-	<li>The red text parts are agent (female voice), the others are user (male voice).</li>
-</ul>
+The below models are used in our subjective experiments:
+- M1: baseline model.
+- M2: M1 plus auxiliary encoder.
+- M3: M2 plus conversational context encoder.
+
+The red text parts are agent (female voice), the others are user (male voice).
 
 ## Part 1: M1(left) vs M2(right)
 
