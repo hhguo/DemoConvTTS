@@ -2,6 +2,21 @@
 layout: default
 ---
 
+* [layout: default](#layout--default)
+- [Abstract](#abstract)
+- [Audio Samples](#audio-samples)
+  * [Part 1: M1(left) vs M2(right)](#part-1--m1-left--vs-m2-right-)
+    + [Dialog 1](#dialog-1)
+    + [Dialog 2](#dialog-2)
+    + [Listen the complete conversation: M1(left) vs M2(right)](#listen-the-complete-conversation--m1-left--vs-m2-right-)
+  * [Part 2: M2(left) vs M3(right)](#part-2--m2-left--vs-m3-right-)
+    + [Dialog 1](#dialog-1-1)
+    + [Dialog 2](#dialog-2-1)
+    + [Listen the complete conversation: M2(left) vs M3(right)](#listen-the-complete-conversation--m2-left--vs-m3-right-)
+  * [Part 3: Spontaneous behaviors](#part-3--spontaneous-behaviors)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # Abstract
 End-to-end neural TTS has achieved excellent performance on reading style speech synthesis. However, it’s still a challenge to build a high-quality conversational TTS due to the limitations of the corpus and modeling capability. This study aims at building a conversational TTS for a voice agent under sequence to sequence modeling framework. We firstly construct a spontaneous conversational speech corpus well designed for the voice agent with a new recording scheme ensuring both recording quality and conversational speaking style. Secondly, we propose a conversation context-aware end-to-end TTS approach which has an auxiliary encoder and a conversational context encoder to reinforce the information about the current utterance and its context in a conversation as well. Experimental results show that the proposed methods produce more natural prosody in accordance with the conversational context, with significant preference gains at both utterance-level and conversation-level. Moreover, we find that the model has the ability to express some spontaneous behaviors, like fillers and repeated words, which makes the conversational speaking style more realistic.
 
