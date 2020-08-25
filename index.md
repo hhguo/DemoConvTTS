@@ -7,7 +7,7 @@ End-to-end neural TTS has achieved excellent performance on reading style speech
 
 - [Abstract](#abstract)
 - [Audio Samples](#audio-samples)
-  * [Part 1: Auxiliary Encoder (Left: M1, Right: M2)](#part-1--m1-left--vs-m2-right-)
+  * [Part 1: Auxiliary Encoder (Left: M1, Right: M2)](#head1)
     + [Dialog 1](#dialog-1)
     + [Dialog 2](#dialog-2)
     + [Complete conversation](#listen-the-complete-conversation--m1-left--vs-m2-right-)
@@ -26,7 +26,7 @@ The below models are used in our subjective experiments:
 
 The red text parts are agent (female voice), the others are user (male voice).
 
-## Part 1: M1(left) vs M2(right)
+## <span id='head1'>Part 1: M1(left) vs M2(right)</span>
 
 ### Dialog 1
 
