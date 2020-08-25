@@ -31,7 +31,7 @@ The below models are used in our subjective experiments:
 The red text parts are agent (female voice), the others are user (male voice).
 
 ## Auxiliary Encoder
-Left: M1, Right: M2
+> Left: M1, Right: M2
 
 ### Dialog 1
 
@@ -157,7 +157,7 @@ Left: M1, Right: M2
 </table>
 
 ## Conversational Context Encoder
-Left: M1, Right: M2
+> Left: M1, Right: M2
 
 ### Dialog 1
 
