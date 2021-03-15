@@ -9,6 +9,6 @@ github:
  
 title: Conversational End-to-End TTS for Voice Agents
 description:
-  Haohan Guo, Shaofei Zhang, Frank K. Soong, Lei He, Lei Xie <br>
-  Audio, Speech and Language Processing Group (ASLP@NPU), School of Computer Science, Northwestern Polytechnical University, Xi’an, China <br>
-  Microsoft China <br>
+  Haohan Guo<sup>1</sup>, Shaofei Zhang<sup>2</sup>, Frank K. Soong<sup>2</sup>, Lei He<sup>2</sup>, Lei Xie<sup>1</sup> <br>
+  <sup>1</sup>Audio, Speech and Language Processing Group (ASLP@NPU), School of Computer Science, Northwestern Polytechnical University, Xi’an, China <br>
+  <sup>2</sup>Microsoft China
